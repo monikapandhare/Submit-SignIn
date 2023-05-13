@@ -1,0 +1,12 @@
+body{
+    height:100vh;
+    background-image: url('https://images.unsplash.com/photo-1680278227098-95ef1c907c49?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDc5fHFQWXNEenZKT1ljfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aqua;
+}
+
+.signInBox{
+    height: 100vh;
+}
